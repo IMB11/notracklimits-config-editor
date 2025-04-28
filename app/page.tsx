@@ -237,7 +237,7 @@ export default function ConfiguratorPage() {
 
       <footer className="py-6">
         <div className="container mx-auto px-4 text-center text-sm text-gray-500 dark:text-gray-400">
-          No Track Limits Configurator for Planet Coaster 2 • Not affiliated with Frontier Developments
+          Not affiliated with Frontier Developments or Planet Coaster 2
         </div>
       </footer>
     </div>
